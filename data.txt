@@ -1,0 +1,4 @@
+chocolat 3
+bonbon 4
+cookie 2
+glace 1
